@@ -1,0 +1,4 @@
+Review,Sentiment,Confidence
+The product is amazing!,POSITIVE,0.9998868703842163
+I'm unhappy with the delay in delivery.,NEGATIVE,0.9997852444648743
+"The service was average, but acceptable.",POSITIVE,0.9784705638885498
